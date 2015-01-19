@@ -13,7 +13,6 @@ luogo:
 <img src='img/loader.gif' data-src="gallery/web-2.jpg" class="" />
 <img src='img/loader.gif' data-src="gallery/web-3.jpg" class="" />
 <img src='img/loader.gif' data-src="gallery/web-4.jpg" class="" />
-<img src='img/loader.gif' data-src="gallery/web-5.jpg" class="" />
 <img src='img/loader.gif' data-src="gallery/web-6.jpg" class="" />
 <img src='img/loader.gif' data-src="gallery/web-7.jpg" class="" />
 <img src='img/loader.gif' data-src="gallery/web-8.jpg" class="" />
